@@ -1,0 +1,81 @@
+
+
+.fontDetail{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 50px;
+    padding: 0 100px;
+    margin: 30px auto;
+}
+.title{
+    font-size: 135px;
+}
+
+.fontInfo{
+    max-width: 400px;
+    width: 100%;
+    text-align: left;
+}
+.fontImg{
+    max-width: 600px;
+    width: 100%;
+    max-height: 350px;
+    height: auto;
+    border: 1px solid silver;
+    border-radius: 20px;
+    text-align: center;
+    border: none;
+}
+@media (max-width: 950px) {
+    .title{
+        font-size: 110px;
+    }
+}
+
+@media (max-width: 870px) {
+    .title{
+        margin-top: 40px;
+        font-size: 110px;
+    }
+}
+@media (max-width: 870px) {
+    .fontDetail{
+        flex-wrap: wrap-reverse;
+    }
+}
+@media (max-width: 821px){
+    .title{
+        margin-top: 90px;
+    }
+}
+@media (max-width: 780px){
+    .title{
+        font-size: 80px;
+    }
+}
+@media (max-width: 720px) {
+    .fontDetail{
+        flex-wrap: wrap-reverse;
+        padding: 0 30px;
+        margin-top: 30px;
+    }
+}
+@media (max-width: 580px){
+    .title{
+        font-size: 70px;
+    }
+}
+
+@media (max-width: 520px){
+    .title{
+        font-size: 50px;
+    }
+}
+@media (max-width: 380px){
+    .title{
+        font-size: 40px;
+    }
+}
+

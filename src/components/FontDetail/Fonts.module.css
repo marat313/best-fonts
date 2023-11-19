@@ -1,0 +1,113 @@
+/*  Cursive fonts */
+@font-face {
+    font-family: "Niconne";
+    src: url(../../assets/fonts/cursive/Niconne.ttf);
+}
+@font-face {
+    font-family: "Kaushan-Script";
+    src: url(../../assets/fonts/cursive/KaushanScript-Regular.ttf);
+}
+@font-face {
+    font-family: "Sail";
+    src: url(../../assets/fonts/cursive/Sail-Regular.otf);
+}
+@font-face {
+    font-family: "League Script";
+    src: url(../../assets/fonts/cursive/LeagueScriptNumberOne-webfont.ttf);
+}
+
+/*  Display fonts fonts */
+@font-face {
+    font-family: "Tightrope";
+    src: url(../../assets/fonts/display/Tightrope.ttf);
+}
+@font-face {
+    font-family: "Pilowlava";
+    src: url(../../assets/fonts/display/Pilowlava-Regular.otf);
+}
+@font-face {
+    font-family: "Yatra-One";
+    src: url(../../assets/fonts/display/YatraOne-Regular.ttf);
+}
+@font-face {
+    font-family: "Typefesse";
+    src: url(../../assets/fonts/display/Typefesse-Pleine.otf);
+}
+@font-face {
+    font-family: "Subjectivity";
+    src: url(../../assets/fonts/display/Subjectivity-Regular.otf);
+}
+@font-face {
+    font-family: "Rakkas";
+    src: url(../../assets/fonts/display/Rakkas-Regular.ttf);
+}
+@font-face {
+    font-family: "Nighty";
+    src: url(../../assets/fonts/display/Nightydemo.otf);
+}
+@font-face {
+    font-family: "Murmure";
+    src: url(../../assets/fonts/display/le-murmure.ttf);
+}
+
+
+/* ====================== Monospace fonts ======================*/
+
+@font-face {
+    font-family: 'Major Mono Display';
+    src: url(../../assets/fonts/monospace/MajorMono.ttf);
+}
+@font-face {
+    font-family: 'Miso';
+    src: url(../../assets/fonts/monospace/miso.otf);
+}
+@font-face {
+    font-family: 'Major Mono';
+    src: url(../../assets/fonts/monospace/MajorMono.ttf);
+}
+
+
+/*=================  SansSerif fonts ====================*/
+@font-face {
+    font-family: "Vercetti";
+    src: url(../../assets/fonts/sansserif/Vercetti-Regular.otf);
+}
+/*  SansSerif fonts */
+@font-face {
+    font-family: "Work Sans";
+    src: url(../../assets/fonts/sansserif/WorkSans-VariableFont_wght.ttf);
+}
+
+/*  SansSerif fonts */
+@font-face {
+    font-family: "Patriot";
+    src: url(../../assets/fonts/sansserif/Patriot.ttf);
+}
+
+/*  Serif fonts */
+@font-face {
+    font-family: "Rude";
+    src: url(../../assets/fonts/serif/Rude.ttf);
+}
+@font-face {
+    font-family: "Soria";
+    src: url(../../assets/fonts/serif/soria-font.ttf);
+}
+@font-face {
+    font-family: "Questa";
+    src: url(../../assets/fonts/serif/2-Questa_Sans_Regular.otf);
+}
+
+/*  Slab fonts */
+@font-face {
+    font-family: "Sreda";
+    src: url(../../assets/fonts/slab/Sreda.ttf);
+}
+@font-face {
+    font-family: "Rokkitt";
+    src: url(../../assets/fonts/slab/Rokkitt-Regular.ttf);
+}
+@font-face {
+    font-family: "St Marie";
+    src: url(../../assets/fonts/slab/StMarie-Thin.otf);
+}

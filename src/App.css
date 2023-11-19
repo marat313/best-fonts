@@ -1,0 +1,25 @@
+
+a{
+    text-decoration: none;
+    border: none;
+    text-align: center;
+}
+
+.font{
+    text-decoration: none;
+    border: none;
+    text-align: center;
+    transition: .2s;
+}
+.font:hover{
+    transform:  scale(1.2);
+}
+h3{
+    font-size: 1.6vw;
+    font-weight: 400;
+    text-align: center;
+    color: #fff7e9;
+    line-height: 30px;
+}
+
+
