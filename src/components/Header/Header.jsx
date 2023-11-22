@@ -21,7 +21,7 @@ function Header() {
         }
       >
         <Link to="/" onClick={closeBurgerMenu}>
-          <div className="font">
+          <div className={styles.bigLogo}>
             <img
               src="https://uploads-ssl.webflow.com/63ad770767a7fcd529308e52/63ee62d32a69aa1748922d92_logo-v3.svg"
               alt=""

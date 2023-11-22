@@ -1,25 +1,5 @@
 [
   {
-    "id": 1,
-    "fontName": "Scyscapers",
-    "category": "Cursive, Display",
-    "style": "Regular",
-    "textExample": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
-    "imageURL": "https://uploads-ssl.webflow.com/63ad78b533698b4084d66910/63ad7f349a624b5027ba884d_tn-type-skyscapers.svg",
-    "fontBackgroundImgURL": "https://uploads-ssl.webflow.com/63ad78b533698b4084d66910/63ad7f3867a7fc48b631092b_skyscapers.jpg"
-
-  },
-  {
-    "id": 2,
-    "fontName": "Shadow Hand",
-    "category": "Cursive, Display",
-    "style": "Regular",
-    "textExample": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
-    "imageURL": "https://uploads-ssl.webflow.com/63ad78b533698b4084d66910/63ad7f23f5bff0421867d3dd_tn-type-shadowhand.svg",
-    "fontBackgroundImgURL": "https://uploads-ssl.webflow.com/63ad78b533698b4084d66910/63e8f43dbc6a9a1bb3b7680a_shadow-hand-bg-2.jpg"
-
-  },
-  {
     "id": 3,
     "fontName": "Sail",
     "category": "Cursive",
@@ -32,7 +12,7 @@
   {
     "id": 4,
     "fontName": "Relieve",
-    "category": "Cursive, Display",
+    "category": "Cursive",
     "style": "Regular",
     "textExample": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
     "imageURL": "https://uploads-ssl.webflow.com/63ad78b533698b4084d66910/63ad7ed64ffe565bb413e224_tn-type-relieve.svg",
@@ -72,7 +52,7 @@
   {
     "id": 8,
     "fontName": "Grandmaster",
-    "category": "Cursive, Display",
+    "category": "Cursive",
     "style": "Regular",
     "textExample": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
     "imageURL": "https://uploads-ssl.webflow.com/63ad78b533698b4084d66910/63ad7d523ba6d16da6f08b9a_tn-type-grandstander.svg",
@@ -82,7 +62,7 @@
   {
     "id": 9,
     "fontName": "Gluten",
-    "category": "Cursive, Display",
+    "category": "Cursive",
     "style": "Regular",
     "textExample": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
     "imageURL": "https://uploads-ssl.webflow.com/63ad78b533698b4084d66910/63ad7d473ca6981294e53bb1_tn-type-gluten.svg",
@@ -92,7 +72,7 @@
   {
     "id": 10,
     "fontName": "Finesse",
-    "category": "Cursive, Display",
+    "category": "Cursive",
     "style": "Regular",
     "textExample": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen bookt",
     "imageURL": "https://uploads-ssl.webflow.com/63ad78b533698b4084d66910/63ad7d0d9a624bd659ba4e07_tn-type-finesse.svg",
@@ -101,7 +81,7 @@
   {
     "id": 11,
     "fontName": "Cylburn",
-    "category": "Cursive, Display",
+    "category": "Cursive",
     "style": "Regular",
     "textExample": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
     "imageURL": "https://uploads-ssl.webflow.com/63ad78b533698b4084d66910/63ad7cbb67a7fc0b9130d5b9_tn-type-cylburn.svg",
@@ -111,7 +91,7 @@
   {
     "id": 12,
     "fontName": "Bispo",
-    "category": "Cursive, Display",
+    "category": "Cursive",
     "style": "Regular",
     "textExample": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
     "imageURL": "https://uploads-ssl.webflow.com/63ad78b533698b4084d66910/63ad7c59f5bff03fe167a68e_tn-type-bispo.svg",
@@ -121,7 +101,7 @@
   {
     "id": 13,
     "fontName": "Alex Brush",
-    "category": "Cursive, Display",
+    "category": "Cursive",
     "style": "Regular",
     "textExample": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
     "imageURL": "https://uploads-ssl.webflow.com/63ad78b533698b4084d66910/63ad7bac67a7fc5dc230ca35_tn-type-alexbrush.svg",
@@ -230,16 +210,7 @@
     "fontBackgroundImgURL": "https://uploads-ssl.webflow.com/63ad78b533698b4084d66910/63ebc210bdf682fb5ee6deb8_nighty-2-p-800.jpg"
   }
   ,
-  {
-    "id": 23,
-    "fontName": "Alex Brush",
-    "category": "Cursive, Display",
-    "style": "Regular",
-    "textExample": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
-    "imageURL": "https://uploads-ssl.webflow.com/63ad78b533698b4084d66910/63ad7bac67a7fc5dc230ca35_tn-type-alexbrush.svg",
-    "fontBackgroundImgURL": "https://uploads-ssl.webflow.com/63ad78b533698b4084d66910/63ad7ba5268d184db67f8fdc_alexbrush.jpg"
-  }
-  ,
+ 
   {
     "id": 24,
     "fontName": "Murmure",

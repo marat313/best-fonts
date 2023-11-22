@@ -30,6 +30,8 @@ function Serif({ fonts, isSelected, onClick }) {
     });
   };
 
+
+
   return (
     <div className={styles2.homeWrapper}>
       <h2>Serif typefaces</h2>
@@ -47,8 +49,6 @@ function Serif({ fonts, isSelected, onClick }) {
               className={`${styles.card}`}
               style={{
                 backgroundImage: hoveredStates[index] ? `url(${font.fontBackgroundImgURL})` : 'none',
-                transform: hoveredStates[index] ? 'scale(1.06)' : 'none',
-                backgroundColor: hoveredStates[index] ? 'transparent' : '#161616',
                 backgroundRepeat: 'no-repeat',
                 backgroundSize: 'cover',
                 backgroundPosition: 'center',

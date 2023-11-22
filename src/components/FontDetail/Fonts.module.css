@@ -15,6 +15,14 @@
     font-family: "League Script";
     src: url(../../assets/fonts/cursive/LeagueScriptNumberOne-webfont.ttf);
 }
+@font-face {
+    font-family: "Skyscapers";
+    src: url(../../assets/fonts/cursive/Skyscapers.ttf);
+}
+@font-face {
+    font-family: "Shadow Hand";
+    src: url(../../assets/fonts/cursive/ShadowHand.ttf);
+}
 
 /*  Display fonts fonts */
 @font-face {
@@ -65,6 +73,7 @@
     font-family: 'Major Mono';
     src: url(../../assets/fonts/monospace/MajorMono.ttf);
 }
+
 
 
 /*=================  SansSerif fonts ====================*/

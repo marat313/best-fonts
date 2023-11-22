@@ -8,6 +8,7 @@ import data from '../../public/data.json';
 function SansSerif({ fonts, isSelected, onClick }) {
   const [hoveredStates, setHoveredStates] = useState(Array(fonts.length).fill(false));
 
+
   const cursiveFonts = data.filter(font => font.category === 'Sans-Serif');
 
   const handleCardClick = (fontId) => {
@@ -30,6 +31,8 @@ function SansSerif({ fonts, isSelected, onClick }) {
     });
   };
 
+
+
   return (
     <div className={styles2.homeWrapper}>
       <h2>SansSerif typefaces</h2>
@@ -47,8 +50,6 @@ function SansSerif({ fonts, isSelected, onClick }) {
               className={`${styles.card}`}
               style={{
                 backgroundImage: hoveredStates[index] ? `url(${font.fontBackgroundImgURL})` : 'none',
-                transform: hoveredStates[index] ? 'scale(1.06)' : 'none',
-                backgroundColor: hoveredStates[index] ? 'transparent' : '#161616',
                 backgroundRepeat: 'no-repeat',
                 backgroundSize: 'cover',
                 backgroundPosition: 'center',

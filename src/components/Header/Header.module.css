@@ -50,21 +50,30 @@ h3{
         display: none;
         flex-direction: column;
         position: fixed;
-        top: -12%;
+        top: -10%;
         right: 0%;
         background-color: #161616;
-        padding: 20px;
+        padding-top: 50px;
+        padding-left: 20px;
+        padding-right: 20px;
         z-index: 1;
         box-shadow: 0 0 1px #8f8383;
         overflow-y: auto;
         max-height: 100vh;
       }
+      h3{
+        font-size: 20px;
+        color: #fff7e9;
+      }
+      .bigLogo{
+        display: none;
+      }
       .logo{
         font-size: 25px;
-        display: block;
+        display: inline-block;
         position: absolute;
-        top: 10%;
-        left: 3%;
+        top: 30px;
+        left: 10px;
         text-decoration: none;
         list-style: none;
         color: #fff;
@@ -85,6 +94,7 @@ h3{
   
     .bar {
       transition: 0.2s;
+      width: 50px;
     }
   
     .bar1.open {
